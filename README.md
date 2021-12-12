@@ -1,6 +1,3 @@
-![la logo](https://user-images.githubusercontent.com/42839573/67322755-818e9400-f4df-11e9-97c1-388bf357353d.png)
+# Links
 
-### Linux Academy Course Repository
-### Hands-On GitOps
-
-This repository is a resource provided for Linux Academy students taking the hands-on GitIOps course.
+- [ArgoCD](https://santanderglobaltech.com/en/from-git-to-kubernetes-in-10-minutes-with-argocd/)
